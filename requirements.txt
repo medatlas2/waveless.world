@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+click
+sounddevice
+pyserial
+scikit-learn
